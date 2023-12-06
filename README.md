@@ -6,7 +6,7 @@
 
 ### Languages:
 
-[![My Skills](https://skillicons.dev/icons?i=js,swift)](https://developer.apple.com/swift/)
+[![My Skills](https://skillicons.dev/icons?i=swift)](https://developer.apple.com/swift/) [![My Skills](https://skillicons.dev/icons?i=java)](https://dev.java)
 
 <!--
 **lujain2000-c/Lujain2000-c** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

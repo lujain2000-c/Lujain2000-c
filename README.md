@@ -1,11 +1,11 @@
 ### Hi there, I'm Lujain Alkanhal👋
 
 ### Connect with me:
+[![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/lujainibraheem/)
 
 ### [![[linkedin](https://www.linkedin.com/in/lujainibraheem/)](https://cloud.githubusercontent.com/assets/17016297/18839848/0fc7e74e-83d2-11e6-8c6a-277fc9d6e067.png)][1]
 
 ### Languages:
-
 [![My Skills](https://skillicons.dev/icons?i=swift)](https://developer.apple.com/swift/) [![My Skills](https://skillicons.dev/icons?i=java)](https://dev.java)
 
 <!--

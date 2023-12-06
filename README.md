@@ -10,7 +10,7 @@
 [![My Skills](https://skillicons.dev/icons?i=spring)](https://spring.io)
 
 ### Tools:
-[![My Skills](https://skillicons.dev/icons?i=idea)](https://www.jetbrains.com/idea/) [![My Skills](https://skillicons.dev/icons?i=firebase)](https://firebase.google.com) [![My Skills](https://skillicons.dev/icons?i=vscode)](https://code.visualstudio.com/) [![My Skills](https://skillicons.dev/icons?i=postman)](https://www.postman.com) [![My Skills](https://skillicons.dev/icons?i=dg)](https://www.postman.com) 
+[![My Skills](https://skillicons.dev/icons?i=idea)](https://www.jetbrains.com/idea/) [![My Skills](https://skillicons.dev/icons?i=firebase)](https://firebase.google.com) [![My Skills](https://skillicons.dev/icons?i=vscode)](https://code.visualstudio.com/) [![My Skills](https://skillicons.dev/icons?i=postman)](https://www.postman.com) [![My Skills](https://skillicons.dev/icons?i=datadrip)](https://www.postman.com) 
 
 
 

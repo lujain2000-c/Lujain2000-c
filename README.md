@@ -1,5 +1,5 @@
 ### Hi there, I'm Lujain Alkanhal👋
-
+### I'm a Ios developer, Backend web developer, Cloud/DevOps.
 ### Connect with me:
 [![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/lujainibraheem/)
 
@@ -10,7 +10,7 @@
 [![My Skills](https://skillicons.dev/icons?i=spring)](https://spring.io)
 
 ### Tools:
-[![My Skills](https://skillicons.dev/icons?i=idea)](https://www.jetbrains.com/idea/) [![My Skills](https://skillicons.dev/icons?i=firebase)](https://firebase.google.com) [![My Skills](https://skillicons.dev/icons?i=vscode)](https://code.visualstudio.com/) [![My Skills](https://skillicons.dev/icons?i=postman)](https://www.postman.com) [![My Skills](https://skillicons.dev/icons?i=datadrip)](https://www.postman.com) 
+[![My Skills](https://skillicons.dev/icons?i=idea)](https://www.jetbrains.com/idea/) [![My Skills](https://skillicons.dev/icons?i=firebase)](https://firebase.google.com) [![My Skills](https://skillicons.dev/icons?i=vscode)](https://code.visualstudio.com/) [![My Skills](https://skillicons.dev/icons?i=postman)](https://www.postman.com) 
 
 
 
@@ -19,7 +19,7 @@
 
 
 
-docker
+
 <!--
 **lujain2000-c/Lujain2000-c** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

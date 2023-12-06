@@ -1,9 +1,9 @@
 ### Hi there 👋
 
 
-[![[linkedin](https://www.linkedin.com/in/lujainibraheem/)](https://cloud.githubusercontent.com/assets/17016297/18839848/0fc7e74e-83d2-11e6-8c6a-277fc9d6e067.png)][1]
+### [![[linkedin](https://www.linkedin.com/in/lujainibraheem/)](https://cloud.githubusercontent.com/assets/17016297/18839848/0fc7e74e-83d2-11e6-8c6a-277fc9d6e067.png)][1]
 
-
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
 <!--
 **lujain2000-c/Lujain2000-c** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

@@ -7,7 +7,7 @@
 [![My Skills](https://skillicons.dev/icons?i=swift)](https://developer.apple.com/swift/) [![My Skills](https://skillicons.dev/icons?i=java)](https://dev.java) [![My Skills](https://skillicons.dev/icons?i=mysql)](https://www.mysql.com) 
 
 ### Tools:
-[![My Skills](https://skillicons.dev/icons?i=xcode)](https://developer.apple.com/swift/) [![My Skills](https://skillicons.dev/icons?i=visualstudio)](https://code.visualstudio.com/) [![My Skills](https://skillicons.dev/icons?i=datagrip)](https://www.mysql.com)
+[![My Skills](https://skillicons.dev/icons?i=xcode)](https://developer.apple.com/swift/) [![My Skills](https://skillicons.dev/icons?i=visualstudio)](https://code.visualstudio.com/) [![My Skills](https://skillicons.dev/icons?i=datagrip)](https://www.mysql.com) 
 <!--
 **lujain2000-c/Lujain2000-c** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

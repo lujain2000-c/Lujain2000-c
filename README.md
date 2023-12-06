@@ -4,7 +4,7 @@
 [![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/lujainibraheem/)
 
 ### Languages:
-[![My Skills](https://skillicons.dev/icons?i=swift)](https://developer.apple.com/swift/) [![My Skills](https://skillicons.dev/icons?i=java)](https://dev.java) [![My Skills](https://skillicons.dev/icons?i=mysql)](https://www.mysql.com) 
+[![My Skills](https://skillicons.dev/icons?i=swift)](https://developer.apple.com/swift/) [![My Skills](https://skillicons.dev/icons?i=java)](https://dev.java) [![My Skills](https://skillicons.dev/icons?i=mysql)](https://www.mysql.com) [![My Skills](https://skillicons.dev/icons?i=python)](https://www.python.org) 
 
 ### Libraries:
 [![My Skills](https://skillicons.dev/icons?i=spring)](https://spring.io)

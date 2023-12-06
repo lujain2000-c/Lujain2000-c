@@ -1,5 +1,5 @@
 ### Hi there, I'm Lujain Alkanhal👋
-### I'm a Ios developer, Backend web developer, Cloud/DevOps.
+### I'm a ios developer, Backend web developer, Cloud/DevOps.
 ### Connect with me:
 [![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/lujainibraheem/)
 
